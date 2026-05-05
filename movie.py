@@ -18,7 +18,6 @@ if __name__ == "__main__":
     year = input("Enter the release year: ")
 # FREEZE CODE END
     
-    
-# Creamos la instancia de Movie
+
     mi_pelicula = Movie(title, director, year)
     print(mi_pelicula)
